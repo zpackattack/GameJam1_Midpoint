@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "GameJam1",
+"productVersion": "0.1",
+"dataUrl": "Midpoint Game Jam 1.data.unityweb",
+"wasmCodeUrl": "Midpoint Game Jam 1.wasm.code.unityweb",
+"wasmFrameworkUrl": "Midpoint Game Jam 1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
